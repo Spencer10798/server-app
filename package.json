@@ -1,0 +1,22 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spencer10798/server-app.git"
+  },
+  "author": "Spencer Maghrouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spencer10798/server-app/issues"
+  },
+  "homepage": "https://github.com/Spencer10798/server-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
